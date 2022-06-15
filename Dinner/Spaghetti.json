@@ -1,0 +1,15 @@
+{
+	"Name": "Spaghetti",
+	"Type": "Italian",
+	"Ingredients": {
+		"Ingredient1": "Spaghetti noodles",
+		"Ingredient2": "Sauce",
+		"Ingredient3": "Parmesan Cheese",
+		"Ingredient4": "",
+		"Ingredient5": "",
+		"Ingredient6": "",
+		"Ingredient7": "",
+		"Ingredient8": ""
+	},
+	"Rating": 8
+}

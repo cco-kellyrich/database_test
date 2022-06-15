@@ -1,0 +1,15 @@
+{
+	"Name": "Pizza",
+	"Type": "Italian",
+	"Ingredients": {
+		"Ingredient1": "Pizza Dough",
+		"Ingredient2": "Pizza Sauce",
+		"Ingredient3": "Mozzeralla Cheese",
+		"Ingredient4": "Peperoni",
+		"Ingredient5": "Sausage",
+		"Ingredient6": "Black Olives",
+		"Ingredient7": "",
+		"Ingredient8": ""
+	},
+	"Rating": 10
+}

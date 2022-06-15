@@ -1,0 +1,15 @@
+{
+	"Name": "Taco",
+	"Type": "Mexican",
+	"Ingredients": {
+		"Ingredient1": "Ground Beef",
+		"Ingredient2": "Taco seasoning",
+		"Ingredient3": "Taco shells",
+		"Ingredient4": "Cheese",
+		"Ingredient5": "Salsa",
+		"Ingredient6": "",
+		"Ingredient7": "",
+		"Ingredient8": ""
+	},
+	"Rating": 9
+}

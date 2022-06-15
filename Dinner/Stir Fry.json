@@ -1,0 +1,15 @@
+{
+	"Name": "Stir Fry",
+	"Type": "Asian",
+	"Ingredients": {
+		"Ingredient1": "Chicken",
+		"Ingredient2": "Cauliflower",
+		"Ingredient3": "Brocolli",
+		"Ingredient4": "Mushrooms",
+		"Ingredient5": "Asparagus",
+		"Ingredient6": "Onion",
+		"Ingredient7": "Rice",
+		"Ingredient8": ""
+	},
+	"Rating": 7
+}
